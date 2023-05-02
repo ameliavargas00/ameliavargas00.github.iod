@@ -1,0 +1,25 @@
+
+#dis{
+    color : rgb(128, 76, 8);
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    #sub{
+    color: rgb(128, 76, 8);
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace
+    }
+    ul.a{
+        list-style: circle;
+        align-items: center;
+        font-family: 'Courier New', Courier, monospace;
+        color: olive;
+    }
+    .parrafos{
+        display: flex;
+        align-items: center;
+        position: relative;
+        left: 550px;
+    }
